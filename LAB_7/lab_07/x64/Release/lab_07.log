@@ -1,0 +1,4 @@
+﻿  Assembling strcopy.asm...
+strcopy.asm(3): error A2008: syntax error : .
+strcopy.asm(4): error A2008: syntax error : .
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Release\strcopy.obj" /W3 /errorReport:prompt  /Tastrcopy.asm" с кодом "1".

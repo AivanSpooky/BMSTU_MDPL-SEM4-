@@ -1,0 +1,5 @@
+﻿  Assembling strcopy.asm...
+strcopy.asm(3): error A2008: syntax error : S
+strcopy.asm(4): error A2034: must be in segment block
+strcopy.asm(5): fatal error A1010: unmatched block nesting : STACKSEG
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\strcopy.obj" /W3 /errorReport:prompt  /Tastrcopy.asm" с кодом "1".
